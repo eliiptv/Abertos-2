@@ -1,81 +1,81 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR: BAND CAMPINAS HD" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="ABERTOS",BR: BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153893
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153893
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR:Band SP HD" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="ABERTOS",BR:Band SP HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141972
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141972
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BR:BAND SP SD" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="ABERTOS",BR:BAND SP SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141973
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141973
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO BAHIA SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:GLOBO BAHIA SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141878
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141878
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="BR:Globo Brasilia SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo Brasilia SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141879
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141879
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="BR:Globo EPTV Campinas SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo EPTV Campinas SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141877
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141877
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="BR:Globo EPTV Ribeirao Preto SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo EPTV Ribeirao Preto SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141871
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141871
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo Goiania sd." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo Goiania sd.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141870
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141870
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="BR:Globo MG Principal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo MG Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141886
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141886
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="BR:Globo MG SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo MG SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141887
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141887
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="BR:Globo Nordeste Principal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo Nordeste Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141881
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141881
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="BR:Globo Nordeste SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo Nordeste SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141882
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141882
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo Paraná Principal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo Paraná Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141876
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141876
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR:Globo RJ Principal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo RJ Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141889
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141889
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR:Globo RJ SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo RJ SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141890
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141890
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO RPC SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:GLOBO RPC SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141888
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141888
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO SAO JOSE DO RIO PRETO SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:GLOBO SAO JOSE DO RIO PRETO SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141869
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141869
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo SP Principal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo SP Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141892
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141892
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo SP SD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo SP SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141893
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141893
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:Globo TV Liberal HD." tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:Globo TV Liberal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141875
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141875
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR:GLOBO INTER TV DOS VALES HD" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR:GLOBO INTER TV DOS VALES HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141874
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141874
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="BR:Globosat HD." tvg-logo="https://www.fdmextintores.com.br/wp-content/uploads/2015/10/globosat.jpg" group-title="DOCUMENTARIOS",BR:Globosat HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141872
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141872
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="BR:Globosat SD." tvg-logo="https://www.fdmextintores.com.br/wp-content/uploads/2015/10/globosat.jpg" group-title="DOCUMENTARIOS",BR:Globosat SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141873
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141873
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="BR: Globo Nordeste FHD" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR: Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153740
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153740
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR: Globo Amazonas" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR: Globo Amazonas
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/154846
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/154846
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="BR: Globo RBS TV Porto Alegre Principal HD" tvg-logo="https://3.bp.blogspot.com/-QADHhU_1PTY/WqvTeSq0QPI/AAAAAAAAAcM/iTM_f2boVIMo8rURg_IDhPaihFpixYxRwCLcBGAs/s1600/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="GLOBOS",BR: Globo RBS TV Porto Alegre Principal HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/154845
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/154845
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR: Globo NSC TV Joinville HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="GLOBOS",BR: Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/162756
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/162756
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR: GLOBO TV REDE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Logotipo_da_TV_Bahia.jpg/200px-Logotipo_da_TV_Bahia.jpg" group-title="GLOBOS",BR: GLOBO TV REDE BAHIA
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/162757
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/162757
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR: RECORD FHD" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="RECORD",BR: RECORD FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153724
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153724
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record Campinas HD" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="RECORD",BR:Record Campinas HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141791
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141791
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record SP HD." tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="RECORD",BR:Record SP HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141792
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141792
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR:Record SP SD." tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="RECORD",BR:Record SP SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141793
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141793
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="BR: Record NORDESTE FHD" tvg-logo="http://3.bp.blogspot.com/-mc43zLUrpNw/UlNU60_briI/AAAAAAAAB7M/BPoEteqiERg/s1600/nordeste.jpg" group-title="RECORD",BR: Record NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153733
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153733
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="BR:Rede TV HD." tvg-logo="https://1.bp.blogspot.com/-avn2dEhGrRQ/WqvTxsaIicI/AAAAAAAAAfQ/3m3yDkKLC5swh3FjxptXZDaMihj_e6zeACLcBGAs/s1600/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="ABERTOS",BR:Rede TV HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141788
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141788
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR: SBT NORDESTE FHD" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="SBT",BR: SBT NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153732
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153732
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR:SBT HD." tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="SBT",BR:SBT HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141774
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141774
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR:SBT Nordeste HD." tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="SBT",BR:SBT Nordeste HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141772
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141772
 #EXTINF:-1 tvg-id="Space.br" tvg-name="BR:SBT SD." tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="SBT",BR:SBT SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141775
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141775
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="BR:TV Cultura HD." tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/TV_Cultura-logo.jpg" group-title="ABERTOS",BR:TV Cultura HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141730
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141730
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="BR:TV Cultura SD." tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/TV_Cultura-logo.jpg" group-title="ABERTOS",BR:TV Cultura SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141731
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141731
