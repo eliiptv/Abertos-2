@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name=".Band Campinas HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="ABERTOS",.Band Campinas HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3915
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3915
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name=".Band Campinas SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="ABERTOS",.Band Campinas SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3914
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3914
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name=".Cultura HD" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS",.Cultura HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3889
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3889
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name=".Cultura SD" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS",.Cultura SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3888
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3888
 #EXTINF:-1 tvg-id="Futura.br" tvg-name=".Futura HD" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="ABERTOS",.Futura HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3903
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3903
 #EXTINF:-1 tvg-id="Futura.br" tvg-name=".Futura SD" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="ABERTOS",.Futura SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3902
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3902
 #EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name=".Globo EPTV Campinas HD" tvg-logo="https://uploaddeimagens.com.br/images/001/631/821/full/EPTV.png?1537768865" group-title="REDE GLOBO",.Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3863
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3863
 #EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name=".Globo EPTV Campinas SD" tvg-logo="https://uploaddeimagens.com.br/images/001/631/821/full/EPTV.png?1537768865" group-title="REDE GLOBO",.Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3862
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3862
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name=".Record HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="ABERTOS",.Record HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3757
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3757
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name=".Record SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="ABERTOS",.Record SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3756
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3756
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name=".RedeTV HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2016/01/redetv.png" group-title="ABERTOS",.RedeTV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3753
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3753
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name=".RedeTV SD" tvg-logo="https://rd1.com.br/wp-content/uploads/2016/01/redetv.png" group-title="ABERTOS",.RedeTV SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3752
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3752
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name=".SBT HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="ABERTOS",.SBT HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3751
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3751
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name=".SBT SD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="ABERTOS",.SBT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3750
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3750
